@@ -1,0 +1,37 @@
+* {
+    /* Xóa margin, padding và border mặc định */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+        background-color: #CDF1FC ;
+
+
+}
+
+.img  {
+    
+    border-color: #CDF1FC;
+    border: 200px solid #CDF1FC; /* Viền dày 2px, kiểu solid và màu đỏ */
+  border-radius: 10%;
+
+
+    background-repeat: no-repeat;
+    /* Không lặp lại ảnh nền */
+    width: 10px;
+  height: 1
+  0px;
+    
+}
+p {
+  font-family: "Arial", sans-serif; /* Font Arial, và sans-serif dự phòng */
+  font-size: 15px;
+ 
+}
+h3{font-family: "Times  New Roman", sans-serif; /* Font Arial, và sans-serif dự phòng */
+  font-size: 15px;
+  font-weight: bold; /* Đậm chữ */
+  color :red
+
+}
